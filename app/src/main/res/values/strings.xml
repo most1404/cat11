@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">یادآور شمسی</string>
+    <string name="widget_name">یادآور شمسی</string>
+    <string name="widget_desc">یادآورهای باز روی صفحهٔ اصلی</string>
+    <string name="channel_name">یادآورها</string>
+    <string name="channel_desc">هشدار سر وقت یادآورها</string>
+</resources>
